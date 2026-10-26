@@ -8,6 +8,12 @@ My personal site, covering my projects, work experience, and life outside of cod
 
 <img width="800" height="500" alt="hero_page_gif" src="https://github.com/user-attachments/assets/ba3a359e-b4df-4e7d-870a-b139bc19f182" />
 
+[The hero: a 3D laptop boots up and types "access granted" next to my name](PASTE-GIF-LINK)
+
+| Dark mode (default) | Light mode |
+| :---: | :---: |
+| ![The site in dark mode, the default](src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7") | ![The site in light mode](src="https://github.com/user-attachments/assets/401cd282-36b7-42d7-808d-b9f5cc2d601d") |
+
 <table>
   <tr>
     <td><img alt="Site in dark mode" src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7"></td>

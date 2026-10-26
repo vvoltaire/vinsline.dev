@@ -5,6 +5,7 @@ import { useState, type CSSProperties } from 'react'
 import Carousel, { type Slide } from './Carousel'
 import Flatlines, { useWavesSetting } from './Flatlines'
 import CircuitReveal from './CircuitReveal'
+import CodeFiles from './CodeFiles'
 import GuitarStrings from './GuitarStrings'
 import WateringCan from './WateringCan'
 import Sketchpad from './Sketchpad'
@@ -107,7 +108,7 @@ export default function Home() {
         <div className="section-kicker"><span>01</span><span>about me</span><span className="section-line" /></div>
         <div className="info-grid">
           <div className="portrait-wrap"><img src="/portrait.jpg" alt="Portrait of Vinsline Voltaire" /><span className="portrait-label">v.v / 001</span></div>
-          <div className="terminal-card"><div className="terminal-head"><span><i /> <i /> <i /></span><span>about.ts</span><span>01 / 03</span></div><div className="terminal-body"><p className="muted">// a little context</p><p><b>const</b> engineer = {'{'}</p><p className="indent"><b>name:</b> <span className="green">&quot;Vinsline Voltaire&quot;</span>,</p><p className="indent"><b>role:</b> <span className="green">&quot;Software Engineer&quot;</span>,</p><p className="indent"><b>focus:</b> <span className="green">&quot;real-time graphics + systems&quot;</span>,</p><p className="indent"><b>based:</b> <span className="green">&quot;Boston, MA&quot;</span>,</p><p className="indent"><b>school:</b> <span className="green">&quot;Oberlin College&quot;</span>,</p><p className="indent"><b>building:</b> <span className="green">&quot;Fragment&quot;</span></p><p>{'}'}</p><p className="terminal-note">Most at home where software, graphics, and playful systems meet.</p></div></div>
+          <CodeFiles />
         </div>
       </section>
 

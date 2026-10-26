@@ -14,11 +14,11 @@ const IGNORE = 'a, button, input, textarea, select, label, .scene-wrap'
 
 const STORAGE_KEY = 'waves'
 
-// On/off setting for the hero lines, remembered per visitor. On by default.
+// On/off setting for the hero lines, remembered per visitor. Off until the visitor turns them on.
 export function useWavesSetting() {
-  const [on, setOn] = useState(true)
+  const [on, setOn] = useState(false)
   useEffect(() => {
-    try { setOn(localStorage.getItem(STORAGE_KEY) !== 'off') } catch {}
+    try { setOn(localStorage.getItem(STORAGE_KEY) === 'on') } catch {}
   }, [])
   const toggle = useCallback(() => {
     setOn((prev) => {

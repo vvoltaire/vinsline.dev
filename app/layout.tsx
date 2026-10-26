@@ -27,10 +27,7 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   colorScheme: 'light dark',
-  themeColor: [
-    { media: '(prefers-color-scheme: light)', color: '#f3f1ea' },
-    { media: '(prefers-color-scheme: dark)', color: '#07100b' },
-  ],
+  themeColor: '#07100b',
 }
 
 export default function RootLayout({
@@ -41,6 +38,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="dark" suppressHydrationWarning>
       <head>
+        {/* Inline on purpose: it must run before first paint. React logs a dev-only warning about it, which is harmless. */}
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
       </head>
       <body className="antialiased">

@@ -2,11 +2,14 @@
 
 My personal site, covering my projects, work experience, and life outside of code.
 
-**[View live ↗](https://vinsline-dev.vercel.app)** (https://vinsline-dev.vercel.app/)
-
+**[View live ↗](https://vinsline-dev.vercel.app)** 
 **[vinsline-dev.vercel.app ↗](https://vinsline-dev.vercel.app)**
 
-[capture.webm](https://github.com/user-attachments/assets/7317a97e-e6a9-4915-b472-16679a291f4b)
+
+<img width="800" height="500" alt="hero_page_gif" src="https://github.com/user-attachments/assets/ba3a359e-b4df-4e7d-870a-b139bc19f182" />
+
+
+
 
 <img width="1280" height="800" alt="Screenshot 2026-10-26 at 1 20 00 PM" src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7" />
 

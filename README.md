@@ -16,6 +16,10 @@ My personal site: the projects I'm building, where I've worked, and what I do aw
 
 ![The hero: a 3D laptop boots up and types "access granted" next to my name](PASTE-GIF-LINK)
 
+https://github.com/user-attachments/assets/c0005944-1fa5-4109-a43f-81eccdd06627
+
+
+
 <table>
   <tr>
     <td><img alt="Site in dark mode" src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7"></td>

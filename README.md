@@ -4,7 +4,8 @@ My personal site, covering my projects, work experience, and life outside of cod
 
 **[View live ↗](https://vinsline-dev.vercel.app)**
 
-![vinsline.dev](public/screenshot.png)
+![vinsline.dev](public/vinslinedevlight.png)
+![vinsline.dev](public/vinslinedevdark.png)
 
 ## Features
 

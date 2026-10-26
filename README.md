@@ -9,12 +9,13 @@ My personal site, covering my projects, work experience, and life outside of cod
 <img width="800" height="500" alt="hero_page_gif" src="https://github.com/user-attachments/assets/ba3a359e-b4df-4e7d-870a-b139bc19f182" />
 
 <table>
-  <tr>
-    <th><img alt="Site in dark mode" src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7"></th>
-    <th><img alt="Site in light mode" src="https://github.com/user-attachments/assets/401cd282-36b7-42d7-808d-b9f5cc2d601d"></th>
-  </tr>
   <tr><td align="center">Dark (default)</td><td align="center">Light</td></tr>
+  <tr>
+    <td><img alt="Site in dark mode" src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7"></td>
+    <td><img alt="Site in light mode" src="https://github.com/user-attachments/assets/401cd282-36b7-42d7-808d-b9f5cc2d601d"></td>
+  </tr>
 </table>
+
 
 ## What's on it
 

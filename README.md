@@ -2,7 +2,7 @@
 
 My personal site, covering my projects, work experience, and life outside of code.
 
-**[View live ↗](https://vinsline-dev.vercel.app)**
+**[View live ↗](https://vinsline-dev.vercel.app)** (https://vinsline-dev.vercel.app/)
 
 <img width="2560" height="1600" alt="22A284AD-B91B-44C7-86EC-E7F7165866FA" src="https://github.com/user-attachments/assets/f0d3938a-82b8-4e37-b5ec-c1a65afb5892" />
 

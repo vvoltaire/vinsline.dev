@@ -8,16 +8,6 @@ My personal site, covering my projects, work experience, and life outside of cod
 
 <img width="800" height="500" alt="hero_page_gif" src="https://github.com/user-attachments/assets/ba3a359e-b4df-4e7d-870a-b139bc19f182" />
 
-<p>
-  <img src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe" width="49%" alt="vinsline.dev in light mode">
-  <img src="https://github.com/user-attachments/assets/fca78d5d-f6b2-444c-a1cf-1f016dbe8019" width="49%" alt="vinsline.dev in dark mode">
-</p>
-
-
-<img width="1280" height="800" alt="Screenshot 2026-10-26 at 1 20 00 PM" src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7" />
-
-<img width="1280" height="800" alt="Screenshot 2026-10-26 at 1 20 34 PM" src="https://github.com/user-attachments/assets/401cd282-36b7-42d7-808d-b9f5cc2d601d" />
-
 <table>
   <tr>
     <td><img alt="Site in dark mode" src="https://github.com/user-attachments/assets/225ffc83-f09b-4e98-aa1a-e7e0221a95c7"></td>
